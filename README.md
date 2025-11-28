@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi there!  I'm Rkato
 
-<!--
-**rkatostats/rkatostats** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Statistician | Data Analist**
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile! I'm passionate about data analysis and statistical modeling
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📊 About Me
+
+- 🔭 **Currently Working On:** Data science projects, statistical analysis and machine learning implementations
+- 💼 **Profession:** Statistician
+- 🎯 **Focus Areas:** Data Analysis, Statistical Modeling, Data Visualization
+- 💻 **Experience:** Python, R, SQL, and data analytics tools (i.e. Excel, Tableau, Power BI)
+- 🌱 **Currently Learning:** Advanced machine learning techniques and cloud data platforms
+- 👯 **Open to Collaboration:** Data science, statistical analysis, and analytics projects
