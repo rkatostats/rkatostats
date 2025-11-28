@@ -22,6 +22,4 @@ Welcome to my GitHub profile! I'm passionate about data analysis and statistical
 </a><br/><br/>
 <p align="center"> 
   <picture><img <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=rkatostats&theme=redical&hide_border=true" style="width: 890px;"/></picture>
-  <picture><img <img align="top" src="https://github-readme-stats.vercel.app/api?username=rkatostats&show_icons=true&include_all_commits=true&theme=radical&hide_border=true" width=53% height=53%/></picture>
-  <picture><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rkatostats&langs_count=8&layout=compact&theme=radical&hide_border=true" width=40.5% height=40.5%/></picture>
 </p>
