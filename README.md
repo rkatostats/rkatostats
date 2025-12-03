@@ -18,7 +18,7 @@ Welcome to my GitHub profile! I'm passionate about data analysis and statistical
 ---
 
 <a href="https://skillicons.dev">
- <picture><img style="margin: 10px" src="https://skillicons.dev/icons?i=js,py,css,html,r&perline=7"alt="My Skills"/></picture> 
+ <picture><img style="margin: 10px" src="https://skillicons.dev/icons?i=js,py,css,html,git,r&perline=7"alt="My Skills"/></picture> 
 </a><br/><br/>
 <p align="center"> 
   <picture><img <img align="top" src="https://github-readme-activity-graph.vercel.app/graph?username=rkatostats&theme=redical&hide_border=true" style="width: 890px;"/></picture>
