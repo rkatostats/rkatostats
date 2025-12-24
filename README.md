@@ -1,10 +1,14 @@
-# 👋 Hi there!  I'm Rkato
+# 👋 Hi there! 
 
-**Statistician | Data Analist**
+I'm Kato, a statistician based in Brazil
 
-Welcome to my GitHub profile! I'm passionate about data analysis and statistical modeling
+I like to create dashboards or interative stuffs, like reports, web, graphics, etc
 
----
+Recently, I'm focusing to upgrade my GitHub porftoil, adding projects made with **python** or **R**, maybe **javascript**
+
+In graduation I experimented a lot of cases with diverses programming languages and statistical softwares, like Fortran95, SAS, SPSS (and PSPP), Excel, Scilab and others
+
+My main tech stack is Python (with Scikit-learning, Keras, Pandas), R (with Tidyverse, Survival, Caret), Excel,
 
 ## 📊 About Me
 
