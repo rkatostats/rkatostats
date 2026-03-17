@@ -1,19 +1,19 @@
 # 👋 Hi there!
 
 I'm **Rodrigo "Rkato" Kato**, a **Statistician and Data Scientist based in Brazil** 🇧🇷.
-This account is my **international portfolio**, where I showcase **completed and polished projects** in data science, statistics, and data visualization.
+This account is my **international portfolio**, where I showcase **completed and polished projects** in data science, statistics and data visualization.
 
-If you want to explore **experiments, prototypes, or projects still in development**, feel free to visit my main profile.
+If you want to explore **experiments, prototypes or projects still in development**, feel free to visit my main profile: https://github.com/RodrigoKakuta
 
 ---
 
 ## 🧠 About Me
 
-I have a background in **Statistics and Law**, and I enjoy working at the intersection of **data analysis, statistical modeling, and technology**.
+I have a background in **Statistics and Law**, and I enjoy working at the intersection of **data analysis, statistical modeling and technology**.
 
-Since childhood, I have always enjoyed **building interactive things** — dashboards, reports, visualizations, and small applications that help transform data into insights.
+Since childhood, I have always enjoyed **building interactive things**, like dashboards, reports, visualizations and small applications that help transform data into insights.
 
-My work focuses on **turning complex data into clear, useful, and well-designed analytical products**.
+My work focuses on **turning complex data into clear, useful and well-designed analytical products**.
 
 ---
 
@@ -35,12 +35,13 @@ My work focuses on **turning complex data into clear, useful, and well-designed 
 * R
 * SQL
 * JavaScript (learning)
+* Julia (learning)
 
 **Python Ecosystem**
 
 * Pandas
 * Scikit-learn
-* Keras / TensorFlow
+* Keras / TensorFlow / Pytorch
 * NumPy
 
 **R Ecosystem**
@@ -53,9 +54,9 @@ My work focuses on **turning complex data into clear, useful, and well-designed 
 
 **Data & Visualization Tools**
 
-* Tableau
-* Power BI
 * Excel
+* Power BI
+* Tableau (learning)
 
 ---
 
@@ -67,6 +68,7 @@ During my academic training in statistics, I experimented with several **statist
 * SAS
 * SPSS / PSPP
 * Scilab
+* Jasp
 
 These experiences helped me understand **different paradigms of statistical computing and numerical analysis**.
 
@@ -75,9 +77,6 @@ These experiences helped me understand **different paradigms of statistical comp
 ## 🚀 Current Focus
 
 * Expanding my **GitHub portfolio with high-quality projects**
-* Building **data science and machine learning applications in Python and R**
-* Developing **interactive dashboards and analytical tools**
-* Improving **reproducible research workflows**
 
 ---
 
