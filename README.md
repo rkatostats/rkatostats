@@ -1,6 +1,6 @@
 # 👋 Hi there!
 
-I'm **Rodrigo "Kato" Kato**, a **Statistician and Data Scientist based in Brazil** 🇧🇷.
+I'm **Rodrigo "Rkato" Kato**, a **Statistician and Data Scientist based in Brazil** 🇧🇷.
 This account is my **international portfolio**, where I showcase **completed and polished projects** in data science, statistics, and data visualization.
 
 If you want to explore **experiments, prototypes, or projects still in development**, feel free to visit my main profile.
