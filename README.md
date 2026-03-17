@@ -1,18 +1,96 @@
-# 👋 Hi there! 
+# 👋 Hi there!
 
-I'm Kato, a statistician based in Brazil
+I'm **Rodrigo "Kato" Kato**, a **Statistician and Data Scientist based in Brazil** 🇧🇷.
+This account is my **international portfolio**, where I showcase **completed and polished projects** in data science, statistics, and data visualization.
 
-I like to create dashboards or interative stuffs, like reports, web, graphics, etc
+If you want to explore **experiments, prototypes, or projects still in development**, feel free to visit my main profile.
 
-Recently, I'm focusing to upgrade my GitHub porftoil, adding projects made with **python** or **R**, maybe **javascript**
+---
 
-In graduation I experimented a lot of cases with diverses programming languages and statistical softwares, like Fortran95, SAS, SPSS (and PSPP), Excel, Scilab and others
+## 🧠 About Me
 
-My main tech stack is Python (with Scikit-learning, Keras, Pandas), R (with Tidyverse, Survival, Caret), Excel,
+I have a background in **Statistics and Law**, and I enjoy working at the intersection of **data analysis, statistical modeling, and technology**.
 
-## 📊 About Me
+Since childhood, I have always enjoyed **building interactive things** — dashboards, reports, visualizations, and small applications that help transform data into insights.
 
-- 🔭 **Currently Working On:** Data science projects, statistical analysis and machine learning implementations
-- 🎯 **Focus Areas:** Data Analysis, Statistical Modeling, Data Visualization
-- 💻 **Experience:** Python, R, SQL, and data analytics tools (i.e. Excel, Tableau, Power BI)
-- 🌱 **Currently Learning:** Advanced machine learning techniques and cloud data platforms
+My work focuses on **turning complex data into clear, useful, and well-designed analytical products**.
+
+---
+
+## 🔬 Main Interests
+
+* 📊 Data Analysis & Statistical Modeling
+* 🤖 Machine Learning
+* 📈 Data Visualization & Interactive Dashboards
+* 🌍 Spatial / Geographical Data Analysis
+* 🧮 Optimization and efficient computation
+
+---
+
+## 💻 Tech Stack
+
+**Languages**
+
+* Python
+* R
+* SQL
+* JavaScript (learning)
+
+**Python Ecosystem**
+
+* Pandas
+* Scikit-learn
+* Keras / TensorFlow
+* NumPy
+
+**R Ecosystem**
+
+* Tidyverse
+* Caret
+* Survival
+* Shiny
+* RMarkdown / Quarto
+
+**Data & Visualization Tools**
+
+* Tableau
+* Power BI
+* Excel
+
+---
+
+## 🧪 Other Technologies I've Worked With
+
+During my academic training in statistics, I experimented with several **statistical and scientific computing tools**, including:
+
+* Fortran 95
+* SAS
+* SPSS / PSPP
+* Scilab
+
+These experiences helped me understand **different paradigms of statistical computing and numerical analysis**.
+
+---
+
+## 🚀 Current Focus
+
+* Expanding my **GitHub portfolio with high-quality projects**
+* Building **data science and machine learning applications in Python and R**
+* Developing **interactive dashboards and analytical tools**
+* Improving **reproducible research workflows**
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced Machine Learning
+* Cloud Data Platforms
+* Scalable Data Pipelines
+
+---
+
+## 🐰 Fun Fact
+
+I have a bunny named **Sury**.
+
+---
